@@ -1,0 +1,35 @@
+
+<?xml version="1.0" encoding="UTF-8"?>
+<VAST version="3.0">
+  <Ad id="4320938">
+    <InLine>
+      <AdSystem>ExoClick</AdSystem>
+      <AdTitle/>
+      <Impression id="exotr"><![CDATA[https://syndication.exdynsrv.com/vregister.php?a=vimp&tracking_event=impression&idzone=4225274&12c06053895f2c38507fe67f8da49298=tsVuZ8uHLjt48dvDtq48vXLv64cNdlTlK8E.fTzu59t3Ln13ee2tqayWunDMUoDXA3GxK9Yw85n0466oK3F35qq5WJHM2qYGonK9zbjkVzGG5qaTXA2w3a5TXBU5Tn34cuvnprgbnsZjgqfcpz78.nnj01wN1QVuZ.eHXxw8a4G8ZpXM.nLl15d.muBtpitx6anDPrw7a4G2mJJ2IHpc.nPlw88_GuBu1imBiuCaXPp559_Hjv21wNzVZ9OGuBtmma6pynPlrgbbctgacz4a4G2mKaYHKc.GuBuCqfPn08dPHHnz11WM58NdrEdjmfHdwB29dc9jMcFT7lK9LFbmfnhrnsZjgqfcpXasppclawzBRO1tMSTsQPSrtWU0uStYZonga3L2n2JXnF65l57GY4Kn3Kc.G7x249Nbl7T7Erzi9cy8rld01MWfHWw2vXhO5nx8a3ZqZGK89cDcrld01MWfHW1NZLXTgvNTA9BKxHmKUBrfrrnXvXdmpuYpbcbXdmpz1wNz0zN2NVrtMVuPTU4Z8eHLXPTA1BK8vJM25Hn01v11z1Z8ddTVLjkq9LlU0dlcE0ueuypyleBvPtx8dmO7XNh13m323cO_Dhw59.vThy78unTn3467KY132Kn82.nFvw0358O8ODPLh0c8.OHDz58ONO.OnLu5rgknpcqqgmlXqrYrsqz464JJ6XKqoJpV4JbWI4G16XGKppc.Gulx1ylyleqCtxd.aquViRzPWw2zHM1Fnw1wNzOuuU59enPj41wNxsStwSvLzsPOZ8eHThx5a3L3GrK4JpV64JHM.G7hx1wNtsVsNOS1uU58dcDbTFNMDlK9U1lLTmfDXLNU1TBPXnw1wStTPSwVzLyTNuZ8NdblVa8kzbmfDXS49BNKu85NKxI4vA3nx5dfHjz51z0zX4L1VsV2VZ7eOuBudimuVynPhragrwXecmlYkcXgbz48u3nrx665XK2GrIK8F56Zr8F68J3M9crlbDVkFeC89M1.C7blTVME9cE0uethtmOZqJe1ynPXBJPS5VVBNKuxHGvBLaxHA2vS4xVNLVnw11WM8s.Guqxnnnw11NUwT1r14TuZ66mqYJ615WJHM9dTVME9a9rlOetmma6pyle1ynPz112058NcEtblMrEefDXLMu7ZK3Vnw1wN0uVTzS1QWuLxsYTWV58NcDclkdcGM0rmfDXZU5Su0xPPBK9nw12VOUrtMTzwSvLu0uUWOStYZ8NbkjEEa8FU.fDXbZZA3nx7c.3Lj24cuHfj57.OHHr37cfHZhpvpyY48ueuuCRyqtiSfPj259uXHtw5cNbU00UDjU0tTktefGA-]]></Impression>
+      <Error><![CDATA[https://syndication.exdynsrv.com/vregister.php?a=vview&errorcode=[ERRORCODE]&idzone=4225274&dg=4320938-49378876-2-0-0-InLine]]></Error>
+      <Creatives>
+        <Creative sequence="1" id="49378876">
+          <Linear skipoffset="00:00:05">
+            <Duration>00:01:40.241</Duration>
+            <TrackingEvents>
+              <Tracking id="prog_1" event="progress" offset="00:00:10.000"><![CDATA[https://syndication.exdynsrv.com/vregister.php?a=vview&tracking_event=progress&progress=00:00:10.000&idzone=4225274&12c06053895f2c38507fe67f8da49298=tsVuZ8uHLjt48dvDtq48vXLv64cNdlTlK8E.fTzu59t3Ln13ee2tqayWunDMUoDXA3GxK9Yw85n0466oK3F35qq5WJHM2qYGonK9zbjkVzGG5qaTXA2w3a5TXBU5Tn34cuvnprgbnsZjgqfcpz78.nnj01wN1QVuZ.eHXxw8a4G8ZpXM.nLl15d.muBtpitx6anDPrw7a4G2mJJ2IHpc.nPlw88_GuBu1imBiuCaXPp559_Hjv21wNzVZ9OGuBtmma6pynPlrgbbctgacz4a4G2mKaYHKc.GuBuCqfPn08dPHHnz11WM58NdrEdjmfHdwB29dc9jMcFT7lK9LFbmfnhrnsZjgqfcpXasppclawzBRO1tMSTsQPSrtWU0uStYZonga3L2n2JXnF65l57GY4Kn3Kc.G7x249Nbl7T7Erzi9cy8rld01MWfHWw2vXhO5nx8a3ZqZGK89cDcrld01MWfHW1NZLXTgvNTA9BKxHmKUBrfrrnXvXdmpuYpbcbXdmpz1wNz0zN2NVrtMVuPTU4Z8eHLXPTA1BK8vJM25Hn01v11z1Z8ddTVLjkq9LlU0dlcE0ueuypyleBvPtx8dmO7XNh13m323cO_Dhw59.vThy78unTn3467KY132Kn82.nFvw0358O8ODPLh0c8.OHDz58ONO.OnLu5rgknpcqqgmlXqrYrsqz464JJ6XKqoJpV4JbWI4G16XGKppc.Gulx1ylyleqCtxd.aquViRzPWw2zHM1Fnw1wNzOuuU59enPj41wNxsStwSvLzsPOZ8eHThx5a7YG3Jl3LXJa89blNM1LUzbmeuBttithpyWtynPjrgbaYppgcpXqmspacz4a5ZqmqYJ68.GuCVqZ6WCuZeSZtzPhrrcqrXkmbcz4a6XHoJpV3nJpWJHF4G8.PLr48efOuema_BeqtiuyrPbx1wNzsU1yuU58NbUFeC7zk0rEji8DefHl289ePXXK5Ww1ZBXgvPTNfgvXhO5nrlcrYasgrwXnpmvwXbcqapgnrgmlz1sNsxzNRL2uU564JJ6XKqoJpV2I414JbWI4G16XGKppas.Guqxnlnw11WM88.GupqmCetevCdzPXU1TBPWvKxI5nrqapgnrXtcpz1s0zXVOUr2uU5.euu2nPhrglrcplYjz4a5Zl3bJW6s.GuBulyqeaWqC1xeNjCayvPhrgbksjrgxmlcz4a3JGII14Kp8.Gu2yyBvPj259uXHtw5cO_fjw8c_Hnp24.OzDTfTl5b4Oa64JHKq2JJ8.Pbn25ce3Dlw1tTTRQONTS1OS158YA--]]></Tracking>
+            </TrackingEvents>
+            <VideoClicks>
+              <ClickThrough><![CDATA[https://syndication.exdynsrv.com/click.php?data=H4sIAAAAAAAAAz1P227iMBD9mjzWsj2.PnaF2IoUeFgIVV4qxzYtIneCso3m4zeh6uqM5n5GZwRwasEgJZTh5zC0CTwnfD3bOI5kjH3jrx.uutQfxDfV3K6H6.xv53H2lzrEv.9APoeqTGDt2iKBVdN4ffs9dblUrU7fjnA8nTjP7lXZllXtVXca2HZq4fh1L0OqMrbeDbsbW6_aVvVF0deHA4PskO3LsFUZ7du3P_dqWaRTJ3tn9M5tyT7ddUIWmzx3r2mX53qjnHvd1PvSy2lhlCEcf9ilf.HPTwlXbvCzQPH98nuif01NHS8h0StEikyB4kxRTtH3F3.NAwkxXkf3tbyOwhJQhIMkVs0FaGP0nHAuuRYoqUIUDDkKiguQzUDFjHLagzufIShCNaUUtBSUay4EaIYgjDAMYCHQRYYUwAwyKijj.N1dwLg0xtpHpqxkEh.aKcfH2MpHEP_39ykyq0Khw3yniEbKwgbtI3hrzyJyU9h_hWhgi_wBAAA-]]></ClickThrough>
+            </VideoClicks>
+            <MediaFiles>
+              <MediaFile delivery="progressive" type="video/mp4"><![CDATA[https://s3t3d2y7.ackcdn.net/library/702594/eea238c23f066cdcdd1894b19e7b8913830f25af.mp4]]></MediaFile>
+            </MediaFiles>
+            <Icons>
+              <Icon>
+                <IconClicks>
+                  <IconClickThrough>www.werockgaming.com</IconClickThrough>
+                </IconClicks>
+              </Icon>
+            </Icons>
+          </Linear>
+        </Creative>
+      </Creatives>
+    </InLine>
+  </Ad>
+</VAST>
